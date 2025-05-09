@@ -1,0 +1,351 @@
+Address,Price,Beds,Baths,Size
+"1913 W 19th St #3, Chicago, IL 60608","$520,000",2 beds,2 baths,"1,380 sq ft"
+"1910 W Superior St #1, Chicago, IL 60622","$439,000",2 beds,2 baths,"1,250 sq ft"
+"5550 115th St #502, Oak Lawn, IL 60453","$239,000",2 beds,2 baths,"1,460 sq ft"
+"1037 Greenbriar Dr, Glendale Heights, IL 60139","$575,000",4 beds,2.5 baths,"2,449 sq ft"
+"985 Lexington Ave, St Charles, IL 60174","$385,000",3 beds,2 baths,"1,604 sq ft"
+"4528 S Leamington Ave, Chicago, IL 60638","$349,000",3 beds,2 baths,"2,000 sq ft"
+"3675 Congressional Pkwy, Elgin, IL 60124","$559,500",4 beds,3 baths,"2,423 sq ft"
+"1992 Woodhaven Dr, Bartlett, IL 60103","$439,000",3 beds,2.5 baths,"1,896 sq ft"
+"2706 Telluride Ct, Plainfield, IL 60586","$439,500",4 beds,2.5 baths,"2,112 sq ft"
+"827 S Dwyer Ave Unit E, Arlington Heights, IL 60005","$227,900",2 beds,1 bath,"1,001 sq ft"
+"10660 Preston St, Westchester, IL 60154","$369,900",3 beds,1.5 baths,"1,134 sq ft"
+"1720 S Michigan Ave #2004, Chicago, IL 60616","$230,000",1 bed,1 bath,720 sq ft
+"1624 N Wood St #3, Chicago, IL 60622","$395,000",2 beds,1 bath,— sq ft
+"30W356 Claymore Ln, Naperville, IL 60563","$389,900",4 beds,2 baths,"1,488 sq ft"
+"215 N Aberdeen St Unit B401, Chicago, IL 60607","$374,900",2 beds,2 baths,— sq ft
+"13979 Stonehenge Dr, Orland Park, IL 60462","$350,000",3 beds,2.5 baths,"1,802 sq ft"
+"6749 S Pointe Dr Unit 1B, Tinley Park, IL 60477","$275,000",2 beds,2 baths,"1,600 sq ft"
+"330 N Jefferson St #1002, Chicago, IL 60661","$385,000",1 bed,1 bath,864 sq ft
+"16749 Paxton Ave Unit 3S, Tinley Park, IL 60477","$225,000",2 beds,2 baths,900 sq ft
+"7339 194th St, Tinley Park, IL 60487","$474,900",3 beds,2.5 baths,"2,955 sq ft"
+"1334 W Greenleaf Ave Unit 3D, Chicago, IL 60626","$279,500",2 beds,2 baths,919 sq ft
+"3013 N California Ave Unit 2N, Chicago, IL 60618","$459,900",2 beds,2 baths,— sq ft
+"1101 Harlem Ave #104, Forest Park, IL 60130","$149,900",2 beds,1 bath,— sq ft
+"7428 Maple Dr #58, Justice, IL 60458","$255,000",2 beds,1.5 baths,"1,200 sq ft"
+"6300 N Sheridan Rd #203, Chicago, IL 60660","$105,000",1 bed,1 bath,500 sq ft
+"1227 N 8000w Rd, Bonfield, IL 60913","$499,900",4 beds,4 baths,"4,025 sq ft"
+"1051 63rd St, Downers Grove, IL 60516","$499,900",3 beds,2 baths,"2,671 sq ft"
+"1241 Indiana St, Hammond, IN 46320","$149,900",2 beds,1 bath,926 sq ft
+"5570 N Olcott Ave, Chicago, IL 60656","$359,900",3 beds,1.5 baths,"1,200 sq ft"
+"4543 W Schubert Ave, Chicago, IL 60639","$389,500",3 beds,2 baths,"2,252 sq ft"
+"25052 Michele Dr, Plainfield, IL 60544","$474,900",4 beds,2.5 baths,"2,430 sq ft"
+"6902 Bluff Point Dr, Madison, WI 53718","$665,000",4 beds,3 baths,"3,516 sq ft"
+"6639 Explorer Dr, Mount Pleasant, WI 53406","$439,900",4 beds,2.5 baths,"2,040 sq ft"
+"106 South Blvd Unit W, Evanston, IL 60202","$555,000",2 beds,2.5 baths,"1,991 sq ft"
+"6151 W Mayfair St, Morton Grove, IL 60053","$374,900",2 beds,2.5 baths,"1,567 sq ft"
+"111 W Maple St #2407, Chicago, IL 60610","$199,000",1 bed,1 bath,550 sq ft
+"1061 W Grant Dr, Des Plaines, IL 60016","$319,000",2 beds,2 baths,"1,466 sq ft"
+"3150 N Lake Shore Dr Unit 8E, Chicago, IL 60657","$399,000",3 beds,2 baths,"1,650 sq ft"
+"1139 Vail Ct, Naperville, IL 60540","$325,000",2 beds,2.5 baths,"1,296 sq ft"
+"525 Simms St, Aurora, IL 60505","$224,900",3 beds,1 bath,988 sq ft
+"26W366 Saint Charles Rd, Carol Stream, IL 60188","$279,900",3 beds,1 bath,"1,133 sq ft"
+"334 Tiger St, Bolingbrook, IL 60490","$549,900",4 beds,2.5 baths,"3,063 sq ft"
+"1111 Holly Ct #317, Oak Park, IL 60301","$150,000",1 bed,1 bath,— sq ft
+"1322 S Wabash Ave Ph 6, Chicago, IL 60605","$689,000",2 beds,2 baths,"2,221 sq ft"
+"829 Thomas St, Chicago Heights, IL 60411","$255,000",3 beds,3 baths,"2,065 sq ft"
+"6604 S Kimbark Ave Unit 3N, Chicago, IL 60637","$249,900",2 beds,2 baths,"1,300 sq ft"
+"872 Sussex Ct, Buffalo Grove, IL 60089","$535,000",4 beds,2.5 baths,"2,032 sq ft"
+"3705 Terrance Ferry Dr, Joliet, IL 60431","$375,000",4 beds,2 baths,"1,792 sq ft"
+"938 Heartland Dr, Yorkville, IL 60560","$609,900",5 beds,3.5 baths,"4,217 sq ft"
+"361 Castlewood Ln, Bartlett, IL 60103","$439,000",3 beds,3.5 baths,"1,727 sq ft"
+"1953 Prospect Dr, Hoffman Estates, IL 60192","$589,900",4 beds,3 baths,"2,474 sq ft"
+"2736 N Hampden Ct #102, Chicago, IL 60614","$775,000",3 beds,2.5 baths,"1,800 sq ft"
+"13412 Grainery Ln, Huntley, IL 60142","$389,000",2 beds,2 baths,"1,684 sq ft"
+"11041 S Keeler Ave, Oak Lawn, IL 60453","$225,000",3 beds,1 bath,"1,204 sq ft"
+"884 Arrowhead Dr, Elwood, IL 60421","$359,900",4 beds,2.5 baths,"2,400 sq ft"
+"4210 N Natchez Ave #304, Chicago, IL 60634","$269,900",2 beds,1 bath,"1,188 sq ft"
+"1926 Prairie Sq Unit 224B, Schaumburg, IL 60173","$154,900",1 bed,1 bath,850 sq ft
+"703 Garden Cir #8, Streamwood, IL 60107","$195,500",2 beds,2 baths,"1,200 sq ft"
+"11700 S Presley Cir, Plainfield, IL 60585","$474,900",4 beds,2.5 baths,"2,332 sq ft"
+"284 Shawnee Dr, Carol Stream, IL 60188","$335,000",3 beds,2 baths,"1,056 sq ft"
+"7610 Crawford Ave Unit 301A, Skokie, IL 60076","$239,900",2 beds,1 bath,— sq ft
+"1725 W Division St #201, Chicago, IL 60622","$699,000",2 beds,2.5 baths,"1,600 sq ft"
+"9406 W 141st St, Orland Park, IL 60462","$375,000",3 beds,2.5 baths,"2,100 sq ft"
+"2435 N Lorel Ave, Chicago, IL 60639","$430,000",4 beds,2 baths,"2,400 sq ft"
+"2308 Harvey Ave, Berwyn, IL 60402","$279,000",2 beds,1 bath,895 sq ft
+"2238 W Walton St #2, Chicago, IL 60622","$639,900",3 beds,2 baths,— sq ft
+"7236 Bonnie Dr, Lakewood, IL 60014","$875,000",5 beds,4.5 baths,"3,600 sq ft"
+"427 N Wisconsin Ave, Villa Park, IL 60181","$389,000",4 beds,2 baths,"2,150 sq ft"
+"5257 Fargo Ave, Skokie, IL 60077","$549,999",4 beds,2 baths,"1,600 sq ft"
+"1810 Grove Ave, Schaumburg, IL 60193","$350,000",3 beds,2.5 baths,"1,600 sq ft"
+"Vacant Land Berta Rd, Braceville, IL 60407","$875,000",— beds,— baths,— sq ft
+"127 Howe Ter, Barrington, IL 60010","$650,000",4 beds,2 baths,"3,000 sq ft"
+"2342 Rock Cyn, New Lenox, IL 60451","$584,900",5 beds,3.5 baths,"3,900 sq ft"
+"2633 W 98th St, Evergreen Park, IL 60805","$275,000",4 beds,2 baths,"1,762 sq ft"
+"1523 Broadway Ct, Wheeling, IL 60090","$340,000",2 beds,3.5 baths,"1,800 sq ft"
+"212 Clubhouse Ln #212, Oswego, IL 60543","$240,000",2 beds,2 baths,"1,130 sq ft"
+"3763 N Wilton Ave Unit 1S, Chicago, IL 60613","$740,000",3 beds,3 baths,"1,800 sq ft"
+"1112 Dovercliff Way, Crystal Lake, IL 60014","$299,999",3 beds,1 bath,"1,212 sq ft"
+"192 Howard Ct #5, Fox Lake, IL 60020","$179,900",2 beds,1 bath,— sq ft
+"14759 Massasoit Ave, Oak Forest, IL 60452","$339,900",3 beds,2 baths,"1,827 sq ft"
+"4400 N 36th St, Milwaukee, WI 53209","$149,900",4 beds,1 bath,"1,385 sq ft"
+"6923 W Foster Ave, Chicago, IL 60656","$354,900",2 beds,1 bath,960 sq ft
+"1 Wimbledon Ct, Lincolnshire, IL 60069","$560,000",3 beds,2.5 baths,"2,792 sq ft"
+"4432 Tampa Dr, Yorkville, IL 60560","$425,000",4 beds,2.5 baths,"2,127 sq ft"
+"2358 Woodhill Ct, Plainfield, IL 60586","$250,000",2 beds,1.5 baths,"1,080 sq ft"
+"2327 W 19th St, Chicago, IL 60608","$559,900",4 beds,2 baths,— sq ft
+"606 Palladium Dr W, Joliet, IL 60435","$299,000",3 beds,2 baths,"1,672 sq ft"
+"1906 Boston St, Chicago Heights, IL 60411","$128,000",4 beds,1 bath,"1,036 sq ft"
+"502 W Stanton Ln, Crete, IL 60417","$167,500",3 beds,1 bath,"1,039 sq ft"
+"232 Heritage Woods Dr, West Chicago, IL 60185","$615,000",4 beds,3 baths,"3,007 sq ft"
+"429 47th Ave, Bellwood, IL 60104","$299,000",3 beds,2 baths,"1,050 sq ft"
+"5508 W Andover Rd, Milwaukee, WI 53219","$359,900",3 beds,2 baths,"3,251 sq ft"
+"2506 Kirchoff Rd, Rolling Meadows, IL 60008","$299,000",2 beds,1 bath,861 sq ft
+"1190 Larkspur Ct, Pingree Grove, IL 60140","$470,000",4 beds,2.5 baths,"3,242 sq ft"
+"4366 Central Ave, Western Springs, IL 60558","$2,199,900",4 beds,3.5 baths,"4,225 sq ft"
+"1739-41 W 35th St Unit HSE, Chicago, IL 60609","$297,000",1 bed,1 bath,915 sq ft
+"3714 W Giddings St Unit 1S, Chicago, IL 60625","$375,000",3 beds,3 baths,"1,736 sq ft"
+"829 E Joliet Hwy, New Lenox, IL 60451","$379,999",4 beds,3 baths,"1,901 sq ft"
+"3215 S Throop St, Chicago, IL 60608","$699,900",8 beds,4 baths,— sq ft
+"13438 Waterleaf Dr, St. John, IN 46373","$754,900",5 beds,3 baths,"3,974 sq ft"
+"1707 N Sheffield Ave #2, Chicago, IL 60614","$549,900",2 beds,2 baths,— sq ft
+"8124 Lowell Ave, Skokie, IL 60076","$525,000",5 beds,2 baths,"2,360 sq ft"
+"1329 W 71st St, Chicago, IL 60636","$260,000",6 beds,2.5 baths,"2,051 sq ft"
+"3537 Arthur Rd, Crete, IL 60417","$329,500",4 beds,2.5 baths,"2,831 sq ft"
+"274 Leeds Dr, Barrington Hills, IL 60010","$2,499,000",5 beds,5.5 baths,"7,434 sq ft"
+"808 Burning Tree Ln, Naperville, IL 60563","$589,000",4 beds,2.5 baths,"2,583 sq ft"
+"16734 Evans Ave, South Holland, IL 60473","$249,900",3 beds,2 baths,"1,292 sq ft"
+"9133 S Drexel Ave, Chicago, IL 60619","$279,900",7 beds,3 baths,"2,097 sq ft"
+"6241 S Bishop St, Chicago, IL 60636","$350,000",7 beds,3 baths,— sq ft
+"757 Whalom Ln, Schaumburg, IL 60173","$324,900",2 beds,2 baths,"1,500 sq ft"
+"17861 Harvard Ln, Country Club Hills, IL 60478","$175,000",4 beds,2 baths,"1,333 sq ft"
+"4039 N Elston Ave #3, Chicago, IL 60618","$499,000",3 beds,2 baths,"1,850 sq ft"
+"280 Westbrook Cir, Naperville, IL 60565","$419,900",3 beds,1.5 baths,"1,597 sq ft"
+"151 N Canyon Dr, Bolingbrook, IL 60490","$429,900",4 beds,2.5 baths,"2,417 sq ft"
+"118 Kestrel Way, Hartland, WI 53029","$767,777",4 beds,3.5 baths,"4,032 sq ft"
+"3280 Haverhill Dr, Aurora, IL 60502","$514,900",4 beds,2.5 baths,"1,961 sq ft"
+"5652 W 63rd St Unit 3E, Chicago, IL 60638","$239,900",2 beds,2 baths,"1,100 sq ft"
+"860 E Old Willow Rd #222, Prospect Heights, IL 60070","$169,900",2 beds,1 bath,950 sq ft
+"16 Lindsey Ct E, Bolingbrook, IL 60440","$349,900",3 beds,3.5 baths,"1,939 sq ft"
+"224 E 46th St, Chicago, IL 60653","$674,900",5 beds,3.5 baths,"3,000 sq ft"
+"5313 W River Bend Dr, Libertyville, IL 60048","$1,250,000",5 beds,3 baths,"4,638 sq ft"
+"1829 Covenent Ln, Chicago Heights, IL 60411","$465,000",6 beds,3.5 baths,"2,336 sq ft"
+"2333 W Saint Paul Ave #132, Chicago, IL 60647","$514,900",2 beds,2 baths,"1,261 sq ft"
+"116 Tower Ln, Elk Grove Village, IL 60007","$340,000",3 beds,1.5 baths,"1,400 sq ft"
+"400 W Huron St #1002, Chicago, IL 60654","$1,390,000",3 beds,2.5 baths,"2,200 sq ft"
+"7904 W Belmont Ave, Chicago, IL 60634","$599,900",5 beds,3 baths,— sq ft
+"107 156th St, Calumet City, IL 60409","$160,000",2 beds,1 bath,800 sq ft
+"3862 S Lake Park Ave Unit 3N, Chicago, IL 60653","$380,000",3 beds,2 baths,"1,850 sq ft"
+"655 W Irving Park Rd #2307, Chicago, IL 60613","$179,900",1 bed,1 bath,600 sq ft
+"6607 N Newgard Ave Unit 2S, Chicago, IL 60626","$364,900",3 beds,2 baths,"1,800 sq ft"
+"4304 N Central Park Ave, Chicago, IL 60618","$799,900",6 beds,4 baths,— sq ft
+"3408 Tall Grass Dr, Naperville, IL 60564","$740,000",4 beds,2.5 baths,"3,170 sq ft"
+"7031 W Touhy Ave #308, Niles, IL 60714","$315,000",2 beds,1 bath,"1,363 sq ft"
+"8339 S Oglesby Ave, Chicago, IL 60617","$225,900",3 beds,1 bath,"1,780 sq ft"
+"10561 S Church St, Chicago, IL 60643","$370,000",5 beds,3 baths,"2,100 sq ft"
+"6138 W 128th Pl, Palos Heights, IL 60463","$469,900",4 beds,2.5 baths,"2,048 sq ft"
+"1366 Elizabeth St, Crete, IL 60417","$249,900",4 beds,2.5 baths,"3,252 sq ft"
+"1117 W Fry St Unit G, Chicago, IL 60642","$335,000",2 beds,2 baths,"1,600 sq ft"
+"3988 Crimson Ct, Elgin, IL 60124","$699,000",4 beds,3 baths,"3,403 sq ft"
+"8164 W Forest Preserve Ave Unit 2C, Chicago, IL 60634","$174,900",2 beds,1 bath,775 sq ft
+"6812 N Wayne Ave Unit 3C, Chicago, IL 60626","$154,900",1 bed,1 bath,600 sq ft
+"6666 W Imlay St, Chicago, IL 60631","$399,000",5 beds,3 baths,"2,525 sq ft"
+"1106 Rose Ave, Des Plaines, IL 60016","$599,999",5 beds,2 baths,"2,500 sq ft"
+"W7999 High Ridge Rd, Fort Atkinson, WI 53538","$799,900",5 beds,2 baths,— sq ft
+"11041 S Emerald Ave, Chicago, IL 60628","$269,900",6 beds,3 baths,— sq ft
+"601 Lance Dr, Des Plaines, IL 60016","$459,000",4 beds,2.5 baths,"1,458 sq ft"
+"485 Duane Ter Unit C1, Glen Ellyn, IL 60137","$175,000",2 beds,1 bath,924 sq ft
+"11 S 6th Ave Unit 3B, La Grange, IL 60525","$162,000",1 bed,1 bath,800 sq ft
+"8524 Skokie Blvd Unit 2C, Skokie, IL 60077","$205,000",2 beds,1.5 baths,945 sq ft
+"1010 Evergreen Cir, Olympia Fields, IL 60461","$359,000",4 beds,3 baths,"2,139 sq ft"
+"1308 Draper Rd, Mchenry, IL 60050","$295,000",3 beds,2.5 baths,"1,717 sq ft"
+"668 Ingraham Ave, Calumet City, IL 60409","$189,900",4 beds,2.5 baths,"1,200 sq ft"
+"2516 Allison Cir, Valparaiso, IN 46383","$342,900",2 beds,2 baths,"1,668 sq ft"
+"10944 W Oakwood Rd, Franklin, WI 53132","$422,000",3 beds,1.5 baths,"2,431 sq ft"
+"180 Saddle Brook Dr, Oak Brook, IL 60523","$869,900",4 beds,2.5 baths,"3,690 sq ft"
+"980 N Lakeside Dr Unit 3D, Vernon Hills, IL 60061","$204,900",2 beds,1 bath,830 sq ft
+"1838 N Western Ave #303, Chicago, IL 60647","$725,000",3 beds,2 baths,— sq ft
+"1968 Holbrook Ln, Hoffman Estates, IL 60169","$259,000",3 beds,1.5 baths,"1,176 sq ft"
+"14041 Stonegate Ln, Orland Park, IL 60467","$472,900",4 beds,2.5 baths,"2,535 sq ft"
+"3343 N Sheffield Ave, Chicago, IL 60657","$1,149,900",8 beds,4 baths,— sq ft
+"1236 Thorndale Ln, Lake Zurich, IL 60047","$599,999",4 beds,2.5 baths,"2,788 sq ft"
+"320 S Fieldstone Ct, Round Lake, IL 60073","$234,900",3 beds,2.5 baths,"1,449 sq ft"
+"4355 S Lake Park Ave Unit 2N, Chicago, IL 60653","$599,000",3 beds,3 baths,"2,000 sq ft"
+"10821 S Eberhart Ave, Chicago, IL 60628","$305,000",4 beds,3 baths,"1,212 sq ft"
+"675 Knollwood Dr, Cary, IL 60013","$449,000",4 beds,2.5 baths,"2,544 sq ft"
+"1036 N Kenilworth Ave, Oak Park, IL 60302","$974,900",4 beds,3.5 baths,"4,149 sq ft"
+"1806 W Belmont Ave #1, Chicago, IL 60657","$859,900",3 beds,3.5 baths,"2,200 sq ft"
+"1019 W Monroe St Unit 4E, Chicago, IL 60607","$774,900",2 beds,2 baths,"1,600 sq ft"
+"511 W Division St #606, Chicago, IL 60610","$395,000",2 beds,2 baths,— sq ft
+"5100 W 96th St #328, Oak Lawn, IL 60453","$299,900",2 beds,2 baths,"1,322 sq ft"
+"1909 S 55th Ct, Cicero, IL 60804","$425,000",4 beds,2.5 baths,— sq ft
+"255 Placid Way, Elk Grove Village, IL 60007","$400,000",4 beds,2 baths,"1,695 sq ft"
+"1355 N Sandburg Ter Unit 2108D, Chicago, IL 60610","$308,500",1 bed,1 bath,850 sq ft
+"241 Barrett Dr Unit C, Yorkville, IL 60560","$240,000",2 beds,1.5 baths,"1,494 sq ft"
+"201 S Dryden Pl, Arlington Heights, IL 60004","$549,000",4 beds,2 baths,"1,825 sq ft"
+"5028 N Major Ave, Chicago, IL 60630","$769,900",8 beds,3 baths,— sq ft
+"2925 W Lyndale St #1, Chicago, IL 60647","$549,000",4 beds,2 baths,— sq ft
+"27 E Hattendorf Ave #517, Roselle, IL 60172","$285,000",2 beds,2 baths,"1,413 sq ft"
+"9120 Durham Dr, Huntley, IL 60142","$514,000",5 beds,3.5 baths,"2,469 sq ft"
+"260 E Chestnut St #707, Chicago, IL 60611","$199,000",1 bed,1 bath,— sq ft
+"2439 N Burling St Unit G, Chicago, IL 60614","$480,000",2 beds,2 baths,— sq ft
+"3118 N Kedzie Ave, Chicago, IL 60618","$800,000",7 beds,4 baths,— sq ft
+"13422 Lindengate Ct, Plainfield, IL 60585","$649,900",5 beds,4.5 baths,"3,121 sq ft"
+"110 W Superior St #1402, Chicago, IL 60654","$629,000",2 beds,2 baths,"1,325 sq ft"
+"1998 W Hidden Reserve Ct, Mequon, WI 53092","$1,100,000",3 beds,2.5 baths,"3,297 sq ft"
+"2085 William Dr, Montgomery, IL 60538","$350,000",4 beds,2.5 baths,"2,502 sq ft"
+"9217 Ewing Ave #201, Evanston, IL 60203","$319,999",3 beds,2 baths,"1,500 sq ft"
+"21427 Bramble Dr, Frankfort, IL 60423","$565,000",5 beds,3 baths,"4,186 sq ft"
+"3433 Ithaca Rd, Olympia Fields, IL 60461","$329,900",4 beds,2.5 baths,"2,340 sq ft"
+"3164 Destiny St, Portage, IN 46368","$439,900",5 beds,3 baths,"3,573 sq ft"
+"65 E Monroe St #4521, Chicago, IL 60603","$794,900",2 beds,2 baths,"1,630 sq ft"
+"1932 East Ave, Berwyn, IL 60402","$489,000",6 beds,2 baths,— sq ft
+"21754 W Empress Ln, Plainfield, IL 60544","$359,000",3 beds,3 baths,"1,385 sq ft"
+"2405 Martin Ln, Rolling Meadows, IL 60008","$379,900",4 beds,2 baths,"1,080 sq ft"
+"305 W 16th St, Chicago Heights, IL 60411","$249,900",3 beds,4 baths,— sq ft
+"1255 N State Pkwy Unit 2AC, Chicago, IL 60610","$750,000",2 beds,2 baths,"2,000 sq ft"
+"11S528 Book Rd, Naperville, IL 60564","$550,000",3 beds,3 baths,"2,297 sq ft"
+"4619 S Prairie Ave Unit GDN, Chicago, IL 60653","$225,000",3 beds,3 baths,"2,500 sq ft"
+"2590 Lorraine Cir, Geneva, IL 60134","$419,900",3 beds,2.5 baths,"2,077 sq ft"
+"79 Golf Pkwy Unit H, Madison, WI 53704","$265,000",3 beds,1.5 baths,"1,530 sq ft"
+"1982 Quaker Hollow Ln, Streamwood, IL 60107","$310,000",3 beds,2.5 baths,"1,650 sq ft"
+"1774 Glen Lake Rd, Hoffman Estates, IL 60169","$458,000",5 beds,2 baths,"2,101 sq ft"
+"2012 W Erie St Unit 3E, Chicago, IL 60612","$560,000",3 beds,2 baths,— sq ft
+"212 E Cullerton St #812, Chicago, IL 60616","$265,000",1 bed,1 bath,907 sq ft
+"50 N Plum Grove Rd Unit 210E, Palatine, IL 60067","$410,000",2 beds,2 baths,"1,700 sq ft"
+"2706 W Chicago Ave #3, Chicago, IL 60622","$474,900",3 beds,2 baths,"1,700 sq ft"
+"3S571 Virginia Ave, Warrenville, IL 60555","$609,000",4 beds,2.5 baths,"2,561 sq ft"
+"4343 N Clarendon Ave #2409, Chicago, IL 60613","$145,000",0 beds,1 bath,600 sq ft
+"850 N Damen Ave Unit 2F, Chicago, IL 60622","$249,999",2 beds,1 bath,750 sq ft
+"270 N Geneva Ave, Elmhurst, IL 60126","$1,975,000",4 beds,3.5 baths,"5,762 sq ft"
+"2227 Hutchison Rd, Flossmoor, IL 60422","$389,000",6 beds,2.5 baths,"1,953 sq ft"
+"7059 26th Pkwy, Berwyn, IL 60402","$419,900",4 beds,2.5 baths,"2,498 sq ft"
+"2306 W Touhy Ave #204, Chicago, IL 60645","$377,000",2 beds,2 baths,"1,300 sq ft"
+"2336 Stoughton Cir, Aurora, IL 60502","$330,000",3 beds,2.5 baths,"1,668 sq ft"
+"1509 Iroquois Ave, St. Charles, IL 60174","$674,900",5 beds,4.5 baths,"2,966 sq ft"
+"1519 Dovetail Dr, Hartford, WI 53027","$464,900",4 beds,2.5 baths,"2,488 sq ft"
+"5930 S Narragansett Ave, Chicago, IL 60638","$390,000",3 beds,3 baths,"1,732 sq ft"
+"2307 Robincrest Ln, Glenview, IL 60025","$609,900",3 beds,3 baths,"1,587 sq ft"
+"32 W 109th Pl, Chicago, IL 60628","$210,000",3 beds,2.5 baths,"1,717 sq ft"
+"21 W 114th Pl, Chicago, IL 60628","$195,000",5 beds,2 baths,"1,573 sq ft"
+"120 N 18th St, Chesterton, IN 46304","$199,900",3 beds,1 bath,"1,128 sq ft"
+"7714 N Paulina St Unit 1S, Chicago, IL 60626","$359,000",3 beds,2.5 baths,"1,809 sq ft"
+"444 W Fullerton Pkwy #1909, Chicago, IL 60614","$425,000",2 beds,2 baths,— sq ft
+"647 Garfield St #1, Oak Park, IL 60304","$189,900",2 beds,1 bath,900 sq ft
+"4418 Euclid Ave Unit 2B, Rolling Meadows, IL 60008","$240,000",2 beds,2 baths,"1,200 sq ft"
+"3110 W Berteau Ave #1, Chicago, IL 60618","$349,000",3 beds,2 baths,"1,350 sq ft"
+"2809 W Washington Blvd #101, Chicago, IL 60612","$159,000",1 bed,1 bath,— sq ft
+"3445 N Oakley Ave, Chicago, IL 60618","$875,000",6 beds,4 baths,— sq ft
+"1161 Sequoia Rd, Naperville, IL 60540","$590,000",4 beds,2.5 baths,"2,376 sq ft"
+"1034 S Cedarcrest Dr, Schaumburg, IL 60193","$425,000",3 beds,2 baths,"1,000 sq ft"
+"14823 Ivy St, Cedar Lake, IN 46303","$379,900",4 beds,3 baths,"2,206 sq ft"
+"4157 N Bernard St #2, Chicago, IL 60618","$245,000",2 beds,1 bath,— sq ft
+"2817 N Oakley Ave Unit 3E, Chicago, IL 60618","$525,000",2 beds,2 baths,"1,300 sq ft"
+"530 N Paulina St, Chicago, IL 60622","$1,289,000",3 beds,3.5 baths,"2,586 sq ft"
+"125 E 13th St #1114, Chicago, IL 60605","$279,900",1 bed,1 bath,800 sq ft
+"2080 N Commerce St #409, Milwaukee, WI 53212","$159,900",1 bed,1 bath,748 sq ft
+"2208 Wooded Ridge Trl, Cottage Grove, WI 53527","$695,000",4 beds,3.5 baths,"3,285 sq ft"
+"32038 Savannah Dr, Lakemoor, IL 60051","$599,900",5 beds,3.5 baths,"3,612 sq ft"
+"7910 S Greenwood Ave, Chicago, IL 60619","$350,000",11 beds,5 baths,— sq ft
+"5750 S Merrimac Ave, Chicago, IL 60638","$535,000",4 beds,3 baths,"1,827 sq ft"
+"10563 S Central Park Ave, Chicago, IL 60655","$315,000",3 beds,2 baths,"1,200 sq ft"
+"1780 Rolling Hills Dr, Woodstock, IL 60098","$525,000",4 beds,3 baths,"3,246 sq ft"
+"5210 S King Dr Unit F, Chicago, IL 60615","$435,000",4 beds,2.5 baths,"2,340 sq ft"
+"2 E Erie St #3609, Chicago, IL 60611","$499,000",2 beds,2 baths,"1,175 sq ft"
+"19W719 Holtz Ave, Addison, IL 60101","$413,999",3 beds,2 baths,"1,421 sq ft"
+"8475 Merchant Ct, Lakewood, IL 60014","$320,000",3 beds,2.5 baths,"2,471 sq ft"
+"617 South Blvd Unit G, Oak Park, IL 60302","$314,900",3 beds,2.5 baths,"1,460 sq ft"
+"9355 Irving Park Rd #419, Schiller Park, IL 60176","$274,900",2 beds,2 baths,"1,680 sq ft"
+"364 65th St, Willowbrook, IL 60527","$769,000",4 beds,3.5 baths,"3,568 sq ft"
+"2495 N Milwaukee Ave Unit 3N, Chicago, IL 60647","$639,900",3 beds,2 baths,"1,283 sq ft"
+"W5709 Fox Hill Rd, Fort Atkinson, WI 53538","$2,999,999",11 beds,5 baths,"8,800 sq ft"
+"3327 W Glenlake Ave, Chicago, IL 60659","$898,900",6 beds,4.5 baths,"4,230 sq ft"
+"639 Kenwood Ct, Dekalb, IL 60115","$199,000",2 beds,1.5 baths,"1,500 sq ft"
+"14810 Maplewood Ave, Harvey, IL 60426","$50,000",3 beds,1 bath,864 sq ft
+"1101 S State St #1300, Chicago, IL 60605","$399,000",3 beds,2 baths,"1,480 sq ft"
+"1715 W Ohio St Unit 2N, Chicago, IL 60622","$600,000",2 beds,2 baths,— sq ft
+"701 W 92nd St, Chicago, IL 60620","$215,000",3 beds,1 bath,"1,036 sq ft"
+"1307 W Schubert Ave, Chicago, IL 60614","$1,525,000",5 beds,3.5 baths,"3,500 sq ft"
+"2503 Fulle St, Rolling Meadows, IL 60008","$319,000",3 beds,1 bath,"1,121 sq ft"
+"655 W Irving Park Rd #5306, Chicago, IL 60613","$235,000",1 bed,1 bath,816 sq ft
+"34128 N Wooded Glen Dr, Grayslake, IL 60030","$515,000",5 beds,3.5 baths,"3,980 sq ft"
+"4930 Oak Ave, Hammond, IN 46327","$244,900",4 beds,2.5 baths,"2,388 sq ft"
+"2015 N Woodlawn Park Ave, Mchenry, IL 60051","$849,900",3 beds,3.5 baths,"2,500 sq ft"
+"95 Hillside Ct, Fox Lake, IL 60020","$194,999",2 beds,1 bath,630 sq ft
+"16400 Fox Creek Ln, Plainfield, IL 60586","$469,900",6 beds,3.5 baths,"2,888 sq ft"
+"153 N Bend Way, Elgin, IL 60124","$639,999",5 beds,3 baths,"3,050 sq ft"
+"4534 N Cumberland Ave #301, Chicago, IL 60656","$240,000",1 bed,1 bath,— sq ft
+"5307 May Ave, Richmond, IL 60071","$325,000",3 beds,2.5 baths,"1,523 sq ft"
+"4855 W Montrose Ave, Chicago, IL 60641","$479,000",3 beds,2 baths,"1,421 sq ft"
+"10535 154th Pl, Orland Park, IL 60462","$362,000",2 beds,2.5 baths,"1,783 sq ft"
+"3605 Gregory St, Madison, WI 53711","$509,000",2 beds,1 bath,"1,250 sq ft"
+"296 E 149th St, Harvey, IL 60426","$65,000",3 beds,1 bath,772 sq ft
+"828 State St, Lemont, IL 60439","$375,000",3 beds,2 baths,"1,676 sq ft"
+"11217 S Avenue L Ave, Chicago, IL 60617","$164,900",2 beds,1 bath,947 sq ft
+"11079 S Bell Ave, Chicago, IL 60643","$595,000",4 beds,2.5 baths,"5,126 sq ft"
+"1423 N California Ave, Chicago, IL 60622","$875,000",4 beds,3.5 baths,"4,000 sq ft"
+"2827 N Woodard St Unit 1S, Chicago, IL 60618","$330,000",2 beds,1 bath,"1,200 sq ft"
+"3900 N Pine Grove Ave #302, Chicago, IL 60613","$325,000",2 beds,2 baths,900 sq ft
+"860 Shandrew Dr, Naperville, IL 60540","$439,900",2 beds,2.5 baths,"2,070 sq ft"
+"517 Villa Circle Dr #33, Palatine, IL 60067","$325,000",2 beds,2.5 baths,"1,350 sq ft"
+"7408 S Eberhart Ave, Chicago, IL 60619","$420,000",6 beds,4 baths,— sq ft
+"2715 Harvey Ave, Berwyn, IL 60402","$355,000",4 beds,2 baths,"1,756 sq ft"
+"6860 S Tumblecreek Dr, Franklin, WI 53132","$534,900",3 beds,2.5 baths,"2,946 sq ft"
+"5900 S King Dr Unit C-3, Chicago, IL 60637","$240,000",3 beds,2 baths,"1,220 sq ft"
+"3440 N Lake Shore Dr Unit 14B, Chicago, IL 60657","$364,900",2 beds,1 bath,— sq ft
+"4454 S Vincennes Ave Unit 3S, Chicago, IL 60653","$255,000",3 beds,2 baths,"1,700 sq ft"
+"6937 S Laflin St, Chicago, IL 60636","$300,000",4 beds,2 baths,— sq ft
+"1409 Burr Oak Rd #109, Hinsdale, IL 60521","$415,000",3 beds,2.5 baths,"2,268 sq ft"
+"2800 N Lake Shore Dr #1710, Chicago, IL 60657","$525,000",2 beds,1 bath,— sq ft
+"1756 Campbell Ave, Des Plaines, IL 60016","$350,000",3 beds,1.5 baths,"1,197 sq ft"
+"12251 Tuliptree Ln, Huntley, IL 60142","$344,900",2 beds,2 baths,"1,376 sq ft"
+"4412 S Oakenwald Ave, Chicago, IL 60653","$549,000",4 beds,2.5 baths,"2,995 sq ft"
+"63 Spyglass Cir, Palos Heights, IL 60463","$439,900",3 beds,2.5 baths,"2,200 sq ft"
+"8 W Monroe St #2100, Chicago, IL 60603","$1,290,000",4 beds,2.5 baths,"5,388 sq ft"
+"211 Greiving St, Dyer, IN 46311","$275,900",3 beds,1 bath,"1,476 sq ft"
+"8629 1/2 W Foster Ave Unit 1A, Chicago, IL 60656","$289,000",3 beds,3 baths,"2,000 sq ft"
+"240 E Illinois St #2603, Chicago, IL 60611","$399,900",1 bed,1 bath,— sq ft
+"4343 N Clarendon Ave #1102, Chicago, IL 60613","$279,000",2 beds,2 baths,"1,150 sq ft"
+"10087 Belmont Ct, St. John, IN 46373","$439,900",4 beds,2 baths,"2,730 sq ft"
+"23120 S Hidden Lake Trl, Crete, IL 60417","$799,900",6 beds,5 baths,"5,486 sq ft"
+"9145 S Pleasant Ave, Chicago, IL 60643","$640,000",6 beds,3 baths,"2,545 sq ft"
+"2240 N Parkside Ave, Chicago, IL 60639","$375,000",4 beds,2 baths,"1,072 sq ft"
+"2413 W Fullerton Ave #3, Chicago, IL 60647","$674,500",2 beds,2 baths,"2,000 sq ft"
+"570 Newcastle Dr, Roselle, IL 60172","$425,000",3 beds,2.5 baths,"1,743 sq ft"
+"12649 S Timberlane Dr, Palos Park, IL 60464","$699,900",4 beds,3.5 baths,"2,520 sq ft"
+"1411 N Dunton Ave, Arlington Heights, IL 60004","$1,299,999",4 beds,5 baths,"2,811 sq ft"
+"423 W Mitchell Ct, Arlington Heights, IL 60004","$1,599,999",5 beds,4 baths,"3,790 sq ft"
+"6307 W Berenice Ave, Chicago, IL 60634","$635,000",5 beds,4.5 baths,"2,302 sq ft"
+"3125 W Pershing Rd, Chicago, IL 60632","$475,000",6 beds,3 baths,— sq ft
+"685 Brighton Pl, Wheeling, IL 60090","$309,989",3 beds,2.5 baths,"1,525 sq ft"
+"3130 W Fullerton Ave Unit 2E, Chicago, IL 60647","$430,000",2 beds,2 baths,"1,250 sq ft"
+"25030 Round Barn Rd, Plainfield, IL 60585","$475,000",4 beds,2.5 baths,"2,358 sq ft"
+"5316 36th Ave, Kenosha, WI 53144","$239,500",2 beds,1 bath,"1,407 sq ft"
+"5467 Osage Ave, Portage, IN 46368","$296,999",4 beds,2 baths,"1,781 sq ft"
+"500 W Superior St #802, Chicago, IL 60654","$515,000",2 beds,2 baths,"1,154 sq ft"
+"50 E 16th St #406, Chicago, IL 60616","$375,000",2 beds,2 baths,"1,000 sq ft"
+"600 N Dearborn St #1101, Chicago, IL 60654","$450,000",2 beds,2 baths,— sq ft
+"230 W 109th St, Chicago, IL 60628","$80,000",3 beds,2 baths,"1,218 sq ft"
+"3048 Brampton Ln, Dyer, IN 46311","$779,900",5 beds,2.5 baths,"3,898 sq ft"
+"9129 S Marshfield Ave, Chicago, IL 60620","$260,000",6 beds,2 baths,"1,192 sq ft"
+"3129 10th St, Rockford, IL 61109","$89,000",3 beds,1 bath,952 sq ft
+"655 Union St, Platteville, WI 53818","$189,900",4 beds,1 bath,"1,264 sq ft"
+"2309 Valberg Dr #161, Stoughton, WI 53589","$499,900",4 beds,2.5 baths,"2,032 sq ft"
+"1205 W 107th Pl, Chicago, IL 60643","$210,000",4 beds,2 baths,— sq ft
+"1413 W Taylor St, Chicago, IL 60607","$1,500,000",15 beds,5 baths,"5,626 sq ft"
+"3804 S 61st Ave, Cicero, IL 60804","$385,000",6 beds,2 baths,"2,811 sq ft"
+"757 Whalom Ln, Schaumburg, IL 60173","$324,900",2 beds,2 baths,"1,500 sq ft"
+"16 Lindsey Ct E, Bolingbrook, IL 60440","$349,900",3 beds,3.5 baths,"1,939 sq ft"
+"8339 S Oglesby Ave, Chicago, IL 60617","$225,900",3 beds,1 bath,"1,780 sq ft"
+"1366 Elizabeth St, Crete, IL 60417","$249,900",4 beds,2.5 baths,"3,252 sq ft"
+"1106 Rose Ave, Des Plaines, IL 60016","$599,999",5 beds,2 baths,"2,500 sq ft"
+"2439 N Burling St Unit G, Chicago, IL 60614","$480,000",2 beds,2 baths,— sq ft
+"4418 Euclid Ave Unit 2B, Rolling Meadows, IL 60008","$240,000",2 beds,2 baths,"1,200 sq ft"
+"4157 N Bernard St #2, Chicago, IL 60618","$245,000",2 beds,1 bath,— sq ft
+"9355 Irving Park Rd #419, Schiller Park, IL 60176","$274,900",2 beds,2 baths,"1,680 sq ft"
+"8 W Monroe St #2100, Chicago, IL 60603","$1,290,000",4 beds,2.5 baths,"5,388 sq ft"
+"50 E 16th St #406, Chicago, IL 60616","$375,000",2 beds,2 baths,"1,000 sq ft"
+"2909 N Sheridan Rd #1607, Chicago, IL 60657","$215,000",1 bed,1 bath,950 sq ft
+"1100 Trillium Ln, Shorewood, IL 60404","$509,900",4 beds,2.5 baths,"3,380 sq ft"
+"172 Lakeview Road North, Dahinda, IL 61428","$165,000",— beds,— baths,— sq ft
+"3101 W 87th St, Evergreen Park, IL 60805","$399,000",— beds,— baths,— sq ft
+"Lot 5 & 6 Sandy Ln, Blue River, WI 53518","$160,000",— beds,— baths,— sq ft
+"1380 N Tremont Rd, Porter, IN 46304","$189,900",— beds,— baths,— sq ft
+"16545 Halsted St, Harvey, IL 60426","$115,000",— beds,— baths,— sq ft
+"1030-1034 E 87th St, Chicago, IL 60619","$1,699,950",— beds,— baths,— sq ft
+"Lt1 N Range Line Rd, Mequon, WI 53092","$799,000",— beds,— baths,— sq ft
+"24858 W Lake Forrest Ln, Shorewood, IL 60404","$185,000",— beds,— baths,— sq ft
+"1223 W Lake St, Chicago, IL 60607","$4,500,000",— beds,— baths,— sq ft
+"1705 Roosevelt Rd, Valparaiso, IN 46383","$125,000",— beds,— baths,— sq ft
+"L136 Staghorn Black Forest Dr, La Valle, WI 53941","$4,900",— beds,— baths,— sq ft
